@@ -135,5 +135,4 @@ def stortprimtal():
 Skriv ett program som:
 - skriver ut de tio första positiva talen
 - skriver ut de tio första positiva udda talen
-- har en funktion som kollar om ett tal är ett primtal eller inte
-- hittar det n:te primtalet
+- berärknar det n:te fibonacci-talet
